@@ -33,4 +33,4 @@ It manages investor balances, calculates production and marketing costs efficien
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hudaabdalmajed3-pixel/TechBoom-App.git](https://github.com/hudaabdalmajed3-pixel/TechBoom-App.git)
+   git clone https://github.com/hudaabdalmajed3-pixel/TechBoom-App.git
