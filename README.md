@@ -1,10 +1,10 @@
 # 🎮 TechBoom - Smart Investment Assistant
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=provider&logoColor=white" alt="Provider" />
+  <img src="[https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)" alt="Flutter" />
+  <img src="[https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)" alt="Dart" />
+  <img src="[https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)" alt="Firebase" />
+  <img src="[https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=provider&logoColor=white](https://img.shields.io/badge/Provider-000000?style=for-the-badge&logo=provider&logoColor=white)" alt="Provider" />
 </p>
 
 ## 📌 Project Overview
@@ -33,4 +33,4 @@ It manages investor balances, calculates production and marketing costs efficien
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/hudaabdalmajed3-pixel/TechBoom-App.git](https://github.com/hudaabdalmajed3-pixel/TechBoom-App.git)<img width="576" height="1280" alt="TechBoom" src="https://github.com/user-attachments/assets/ecd63f96-a281-419d-b56b-a6f0e433c68a" />
+   git clone https://github.com/hudaabdalmajed3-pixel/TechBoom-App.git
