@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "22085137042",
+    "project_id": "techboom-4f80d",
+    "storage_bucket": "techboom-4f80d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22085137042:android:1732e70457dbedee04ac4b",
+        "android_client_info": {
+          "package_name": "com.example.tb_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIZW5uXRQ0BoB9QNX4xlNYZcekoNVHFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:22085137042:android:df14f9ceef8362d304ac4b",
+        "android_client_info": {
+          "package_name": "com.huda.tbgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRIZW5uXRQ0BoB9QNX4xlNYZcekoNVHFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
