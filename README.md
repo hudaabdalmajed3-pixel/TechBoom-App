@@ -16,7 +16,11 @@
 
 <div align="center">
   <!-- اسحبي ملف الـ GIF وأفلتيه مكان هذا السطر بالكامل -->
-  <img src="ضع_رابط_الـGIF_هنا" alt="TechBoom Demo GIF" width="800" />
+  <img src="
+
+https://github.com/user-attachments/assets/e95b12e5-3630-46cd-b262-b88d1846c75c
+
+" alt="TechBoom Demo GIF" width="800" />
 </div>
 
 ---
@@ -56,8 +60,10 @@
   </tr>
   <tr>
     <!-- اسحبي الصور وأفلتيها مكان الروابط أدناه -->
-    <td><img width="400" src="رابط_صورة_1" alt="Screenshot 1"/></td>
-    <td><img width="400" src="رابط_صورة_2" alt="Screenshot 2"/></td>
+    <td><img width="400" src="<img width="414" height="885" alt="W04 06 PM" src="https://github.com/user-attachments/assets/4d18a63b-45b8-4822-bec6-fb6d9fac0b41" />
+" alt="Screenshot 1"/></td>
+    <td><img width="400" src="<img width="418" height="904" alt="WhatsApp Image 2026-08-29 at 11 04 06 PM" src="https://github.com/user-attachments/assets/8d65023d-589b-4396-ae0d-84ec0caaea6d" />
+" alt="Screenshot 2"/></td>
   </tr>
 </table>
 
